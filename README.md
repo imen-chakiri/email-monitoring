@@ -98,7 +98,3 @@ This project focuses on:
 - data collection reliability  
 
 It is designed as an **operational control tool**.
-
-*** 
-## Link 
-https://app.powerbi.com/groups/me/reports/ead7fc1c-b96f-475b-ba9c-4deadbdf4fa4/f5d8e4ea0eafb2e62ab4?experience=power-bi
